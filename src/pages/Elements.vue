@@ -82,7 +82,6 @@
     <h2 class="texxt text-white small-screen-only text-center">Produtos</h2>
   </div>
     </q-parallax>
-   </div>
 
    <h1 class="texxt2 bg-white text-center large-screen-only text-black">Linha. Nemesis</h1>
    <h2 class="texxt2 bg-white text-center small-screen-only text-black">Linha. Nemesis</h2>

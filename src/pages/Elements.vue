@@ -4,7 +4,7 @@
     <div class="row justify-between">
 
     <q-parallax
-    style="width: 100vw; height: 85vh; "
+    style="width: 100vw; height: 90vh; "
      src=" https://scontent.fbnu4-1.fna.fbcdn.net/v/t1.0-9/130811889_1935168946622228_7897929910126993059_o.jpg?_nc_cat=102&ccb=2&_nc_sid=e3f864&_nc_ohc=9ievON56EKUAX_Hg86s&_nc_ht=scontent.fbnu4-1.fna&oh=45f64ae02ae53e462ce1337c398649f4&oe=6024EE26"
     >
     <subtitle class="text-h5 text-grey-5 text-white text-center texxt"> porque ter uma cadeira ? <br> quando se pode ter um trono ! </subtitle>
@@ -43,7 +43,7 @@
     </q-parallax>
         <q-parallax
          class="large-screen-only"
-    style="width: 135vw; height: 90vh; ;"
+    style="width: 135vw; height: 95vh; ;"
      src="https://desafio.elementsgaming.com.br/wp-content/uploads/2021/02/concept-retangular-scaled.jpg"
     >
       <div class="flex flex-center">
